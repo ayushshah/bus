@@ -16,5 +16,6 @@
         <item name="colorAccent">#FF4081</item>
         <!-- You can also set colorControlNormal, colorControlActivated
             colorControlHighlight and colorSwitchThumbNormal. -->
+        <item name="android:navigationBarColor">#1976D2</item>
     </style>
 </resources>
